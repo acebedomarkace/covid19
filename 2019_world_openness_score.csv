@@ -1,0 +1,399 @@
+country,score,index
+Afghanistan,35,MS
+Afghanistan,98,Rank
+Albania,116,MS
+Albania,45,Rank
+Algeria,63,MS
+Algeria,78,Rank
+Andorra,154,MS
+Andorra,14,Rank
+Angola,61,MS
+Angola,80,Rank
+Antigua and Barbuda,139,MS
+Antigua and Barbuda,24,Rank
+Argentina,160,MS
+Argentina,12,Rank
+Armenia,76,MS
+Armenia,66,Rank
+Australia,168,MS
+Australia,6,Rank
+Austria,171,MS
+Austria,3,Rank
+Azerbaijan,79,MS
+Azerbaijan,64,Rank
+Bahamas,145,MS
+Bahamas,20,Rank
+Bahrain,91,MS
+Bahrain,53,Rank
+Bangladesh,50,MS
+Bangladesh,90,Rank
+Barbados,149,MS
+Barbados,17,Rank
+Belarus,87,MS
+Belarus,57,Rank
+Belgium,170,MS
+Belgium,4,Rank
+Belize,97,MS
+Belize,50,Rank
+Benin,65,MS
+Benin,76,Rank
+Bhutan,66,MS
+Bhutan,75,Rank
+Bolivia,86,MS
+Bolivia,58,Rank
+Bosnia and Herzegovina,119,MS
+Bosnia and Herzegovina,43,Rank
+Botswana,84,MS
+Botswana,60,Rank
+Brazil,161,MS
+Brazil,11,Rank
+Brunei,153,MS
+Brunei,15,Rank
+Bulgaria,165,MS
+Bulgaria,9,Rank
+Burkina Faso,64,MS
+Burkina Faso,77,Rank
+Burundi,59,MS
+Burundi,82,Rank
+Cambodia,66,MS
+Cambodia,75,Rank
+Cameroon,57,MS
+Cameroon,83,Rank
+Canada,169,MS
+Canada,5,Rank
+Cape Verde,72,MS
+Cape Verde,70,Rank
+Central African Republic,57,MS
+Central African Republic,83,Rank
+Chad,59,MS
+Chad,82,Rank
+Chile,161,MS
+Chile,11,Rank
+China,80,MS
+China,63,Rank
+Colombia,129,MS
+Colombia,33,Rank
+Comoros,61,MS
+Comoros,80,Rank
+Congo,52,MS
+Congo,88,Rank
+Congo (Dem. Rep.),52,MS
+Congo (Dem. Rep.),88,Rank
+Costa Rica,141,MS
+Costa Rica,22,Rank
+Cote d'Ivoire (Ivory Coast),64,MS
+Cote d'Ivoire (Ivory Coast),77,Rank
+Croatia,164,MS
+Croatia,10,Rank
+Cuba,76,MS
+Cuba,66,Rank
+Cyprus,166,MS
+Cyprus,8,Rank
+Czech Republic,169,MS
+Czech Republic,5,Rank
+Denmark,171,MS
+Denmark,3,Rank
+Djibouti,56,MS
+Djibouti,84,Rank
+Dominica,131,MS
+Dominica,31,Rank
+Dominican Republic,76,MS
+Dominican Republic,66,Rank
+Ecuador,98,MS
+Ecuador,49,Rank
+Egypt,60,MS
+Egypt,81,Rank
+El Salvador,126,MS
+El Salvador,36,Rank
+Equatorial Guinea,60,MS
+Equatorial Guinea,81,Rank
+Eritrea,50,MS
+Eritrea,90,Rank
+Estonia,168,MS
+Estonia,6,Rank
+Eswatini,79,MS
+Eswatini,64,Rank
+Ethiopia,50,MS
+Ethiopia,90,Rank
+Fiji,96,MS
+Fiji,51,Rank
+Finland,172,MS
+Finland,2,Rank
+France,170,MS
+France,4,Rank
+Gabon,64,MS
+Gabon,77,Rank
+Gambia,71,MS
+Gambia,71,Rank
+Georgia,123,MS
+Georgia,39,Rank
+Germany,172,MS
+Germany,2,Rank
+Ghana,68,MS
+Ghana,74,Rank
+Greece,170,MS
+Greece,4,Rank
+Grenada,132,MS
+Grenada,30,Rank
+Guatemala,128,MS
+Guatemala,34,Rank
+Guinea,59,MS
+Guinea,82,Rank
+Guinea-Bissau,57,MS
+Guinea-Bissau,83,Rank
+Guyana,90,MS
+Guyana,54,Rank
+Haiti,61,MS
+Haiti,80,Rank
+Honduras,128,MS
+Honduras,34,Rank
+Hong Kong,157,MS
+Hong Kong,13,Rank
+Hungary,169,MS
+Hungary,5,Rank
+Iceland,168,MS
+Iceland,6,Rank
+India,71,MS
+India,71,Rank
+Indonesia,85,MS
+Indonesia,59,Rank
+Iran,49,MS
+Iran,91,Rank
+Iraq,37,MS
+Iraq,97,Rank
+Ireland,171,MS
+Ireland,3,Rank
+Israel,150,MS
+Israel,16,Rank
+Italy,171,MS
+Italy,3,Rank
+Jamaica,94,MS
+Jamaica,52,Rank
+Japan,171,MS
+Japan,3,Rank
+Jordan,62,MS
+Jordan,79,Rank
+Kazakhstan,88,MS
+Kazakhstan,56,Rank
+Kenya,74,MS
+Kenya,68,Rank
+Kiribati,124,MS
+Kiribati,38,Rank
+Kosovo,54,MS
+Kosovo,86,Rank
+Kuwait,102,MS
+Kuwait,47,Rank
+Kyrgyzstan,74,MS
+Kyrgyzstan,68,Rank
+Laos,61,MS
+Laos,80,Rank
+Latvia,167,MS
+Latvia,7,Rank
+Lebanon,53,MS
+Lebanon,87,Rank
+Lesotho,80,MS
+Lesotho,63,Rank
+Liberia,55,MS
+Liberia,85,Rank
+Libya,49,MS
+Libya,91,Rank
+Liechtenstein,164,MS
+Liechtenstein,10,Rank
+Lithuania,169,MS
+Lithuania,5,Rank
+Luxembourg,172,MS
+Luxembourg,2,Rank
+Macao,139,MS
+Macao,24,Rank
+Madagascar,66,MS
+Madagascar,75,Rank
+Malawi,77,MS
+Malawi,65,Rank
+Malaysia,165,MS
+Malaysia,9,Rank
+Maldives,91,MS
+Maldives,53,Rank
+Mali,59,MS
+Mali,82,Rank
+Malta,170,MS
+Malta,4,Rank
+Marshall Islands,121,MS
+Marshall Islands,41,Rank
+Mauritania,62,MS
+Mauritania,79,Rank
+Mauritius,136,MS
+Mauritius,27,Rank
+Mexico,150,MS
+Mexico,16,Rank
+Micronesia,116,MS
+Micronesia,45,Rank
+Moldova,120,MS
+Moldova,42,Rank
+Monaco,164,MS
+Monaco,10,Rank
+Mongolia,75,MS
+Mongolia,67,Rank
+Montenegro,124,MS
+Montenegro,38,Rank
+Morocco,73,MS
+Morocco,69,Rank
+Mozambique,65,MS
+Mozambique,76,Rank
+Myanmar [Burma],54,MS
+Myanmar [Burma],86,Rank
+Namibia,75,MS
+Namibia,67,Rank
+Nauru,89,MS
+Nauru,55,Rank
+Nepal,53,MS
+Nepal,87,Rank
+Netherlands,171,MS
+Netherlands,3,Rank
+New Zealand,169,MS
+New Zealand,5,Rank
+Nicaragua,122,MS
+Nicaragua,40,Rank
+Niger,59,MS
+Niger,82,Rank
+Nigeria,50,MS
+Nigeria,90,Rank
+North Korea,51,MS
+North Korea,89,Rank
+North Macedonia,124,MS
+North Macedonia,38,Rank
+Norway,170,MS
+Norway,4,Rank
+Oman,88,MS
+Oman,56,Rank
+Pakistan,42,MS
+Pakistan,94,Rank
+Palau,117,MS
+Palau,44,Rank
+Palestinian Territories,48,MS
+Palestinian Territories,92,Rank
+Panama,135,MS
+Panama,28,Rank
+Papua New Guinea,83,MS
+Papua New Guinea,61,Rank
+Paraguay,137,MS
+Paraguay,26,Rank
+Peru,140,MS
+Peru,23,Rank
+Philippines,75,MS
+Philippines,67,Rank
+Poland,169,MS
+Poland,5,Rank
+Portugal,171,MS
+Portugal,3,Rank
+Qatar,102,MS
+Qatar,47,Rank
+Romania,166,MS
+Romania,8,Rank
+Russian Federation,122,MS
+Russian Federation,40,Rank
+Rwanda,69,MS
+Rwanda,73,Rank
+Saint Kitts and Nevis,142,MS
+Saint Kitts and Nevis,21,Rank
+Saint Lucia,134,MS
+Saint Lucia,29,Rank
+Samoa,127,MS
+Samoa,35,Rank
+San Marino,154,MS
+San Marino,14,Rank
+Sao Tome and Principe,70,MS
+Sao Tome and Principe,72,Rank
+Saudi Arabia,88,MS
+Saudi Arabia,56,Rank
+Senegal,64,MS
+Senegal,77,Rank
+Serbia,134,MS
+Serbia,29,Rank
+Seychelles,139,MS
+Seychelles,24,Rank
+Sierra Leone,64,MS
+Sierra Leone,77,Rank
+Singapore,169,MS
+Singapore,5,Rank
+Slovakia,169,MS
+Slovakia,5,Rank
+Slovenia,168,MS
+Slovenia,6,Rank
+Solomon Islands,131,MS
+Solomon Islands,31,Rank
+Somalia,41,MS
+Somalia,95,Rank
+South Africa,103,MS
+South Africa,46,Rank
+South Korea,171,MS
+South Korea,3,Rank
+South Sudan,52,MS
+South Sudan,88,Rank
+Spain,172,MS
+Spain,2,Rank
+Sri Lanka,53,MS
+Sri Lanka,87,Rank
+St. Vincent and the Grenadines,140,MS
+St. Vincent and the Grenadines,23,Rank
+Sudan,48,MS
+Sudan,92,Rank
+Suriname,82,MS
+Suriname,62,Rank
+Sweden,170,MS
+Sweden,4,Rank
+Switzerland,171,MS
+Switzerland,3,Rank
+Syria,40,MS
+Syria,96,Rank
+Taiwan,135,MS
+Taiwan,28,Rank
+Tajikistan,70,MS
+Tajikistan,72,Rank
+Tanzania,74,MS
+Tanzania,68,Rank
+Thailand,89,MS
+Thailand,55,Rank
+Timor-Leste,101,MS
+Timor-Leste,48,Rank
+Togo,60,MS
+Togo,81,Rank
+Tonga,124,MS
+Tonga,38,Rank
+Trinidad and Tobago,138,MS
+Trinidad and Tobago,25,Rank
+Tunisia,77,MS
+Tunisia,65,Rank
+Turkey,121,MS
+Turkey,41,Rank
+Turkmenistan,63,MS
+Turkmenistan,78,Rank
+Tuvalu,125,MS
+Tuvalu,37,Rank
+Uganda,72,MS
+Uganda,70,Rank
+Ukraine,141,MS
+Ukraine,22,Rank
+United Arab Emirates,179,MS
+United Arab Emirates,1,Rank
+United Kingdom,169,MS
+United Kingdom,5,Rank
+United States of America,171,MS
+United States of America,3,Rank
+Uruguay,148,MS
+Uruguay,18,Rank
+Uzbekistan,70,MS
+Uzbekistan,72,Rank
+Vanuatu,130,MS
+Vanuatu,32,Rank
+Vatican City,146,MS
+Vatican City,19,Rank
+Venezuela,129,MS
+Venezuela,33,Rank
+Viet Nam,65,MS
+Viet Nam,76,Rank
+Yemen,44,MS
+Yemen,93,Rank
+Zambia,74,MS
+Zambia,68,Rank
+Zimbabwe,70,MS
+Zimbabwe,72,Rank
